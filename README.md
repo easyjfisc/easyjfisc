@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @easyjfisc
-- 👀 I’m interested in ... Whatever is going to make me money
-- 🌱 I’m currently learning ... Idk yet
-- 💞️ I’m looking to collaborate on ... Small side projects we can put on our resumes
+- 👀 I’m interested in ... Machine Learning / AI
+- 🌱 I’m currently learning ... Data Structures & Algorithms, Computer Architecture
+- 💞️ I’m looking to collaborate on ... Side projects we can put on our resumes
 - 📫 How to reach me ... ejfisc@protonmail.com
 
 <!---
