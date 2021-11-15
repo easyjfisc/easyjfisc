@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @easyjfisc
+- 👋 Hi, I’m @ejfisc
 - 👀 I’m interested in ... Machine Learning / AI
 - 🌱 I’m currently learning ... Data Structures & Algorithms, Computer Architecture
 - 💞️ I’m looking to collaborate on ... Side projects we can put on our resumes
