@@ -7,7 +7,7 @@
 * 👩‍💻 I enjoy participating in hackathons, check out my first hackathon project [here](https://github.com/pranavsouri/HACKUTD)
 * 💾 My profile is comprised primarily of school projects and test experiments
 * 🧑‍🤝‍🧑 I would love to collaborate with you
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ejfisc/) | [email](ejfisc@protonmail.com)
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ejfisc/) | Email: ejfisc@protonmail.com
 
 ### Fun Facts
 * 🌲 I love the outdoors: my free time is spent mountain biking, running, and rock climbing
