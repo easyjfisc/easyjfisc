@@ -15,9 +15,9 @@
 * ☕ I have a caffeine addiction
 
 ## Skills
-#### Languages: 
+### Languages: 
 Java | C++ | Kotlin | Python | JavaScript | HTML | CSS
-#### Technologies:
+### Technologies:
 Git/GitHub | Raspberry Pi | React.JS
 
 
