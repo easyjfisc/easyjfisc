@@ -2,7 +2,7 @@
 
 ## About Me
 * 💻 Undergraduate student studying CS at The University of Texas at Dallas
-* 🤖 I am interested in artificial intelligence and machine learning
+* 📱: I am interested in data science and embedded systems engineering
 * 🐍 I am currently learning Python
 * 👩‍💻 I enjoy participating in hackathons, check out my first hackathon project [here](https://github.com/pranavsouri/HACKUTD)
 * 💾 My profile is comprised primarily of school projects and test experiments
@@ -15,8 +15,10 @@
 * ☕ I have a caffeine addiction
 
 ## Skills
-
+#### Languages: 
 Java | C++ | Kotlin | Python | JavaScript | HTML | CSS
+#### Technologies:
+Git/GitHub | Raspberry Pi | React.JS
 
 
 <!---
