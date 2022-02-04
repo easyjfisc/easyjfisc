@@ -11,7 +11,7 @@
 
 ### Fun Facts
 * 🌲 I love the outdoors: my free time is spent mountain biking, running, and rock climbing
-* 🎸 I play guitar
+* 🎸 I play guitar and I'm a huge metalhead
 * ☕ I have a caffeine addiction
 
 ## Skills
