@@ -16,9 +16,9 @@
 
 ## Skills
 ### Languages: 
-Java | C++ | Kotlin | Python | JavaScript | HTML | CSS
+Java | C | C++ | Kotlin | Python
 ### Technologies:
-Git/GitHub | Raspberry Pi | React.JS
+Git | Arduino | Raspberry Pi
 
 
 <!---
