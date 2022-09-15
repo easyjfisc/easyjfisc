@@ -9,6 +9,6 @@
 
 ## Skills
 ### Languages: 
-Java | C | C++ | Kotlin | Python
+Java | C | C++ | Python
 ### Technologies:
 Git | Arduino | Raspberry Pi
