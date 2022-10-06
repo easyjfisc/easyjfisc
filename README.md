@@ -8,7 +8,7 @@
 * I would love to collaborate with you, connect with me on [LinkedIn](https://www.linkedin.com/in/ejfisc/) or email me at ejfisc@protonmail.com
 
 ## Skills
-### Languages: 
-Java | C | C++ | Python
-### Technologies:
-Git | Arduino | Raspberry Pi
+### Industry Knowledge
+Microcontrollers | Object-Oriented Programming | Software Engineering
+### Tools and Technologies
+C/C++ | Python | MIPS | Verilog | Java | MATLAB | Unix | Arduino
